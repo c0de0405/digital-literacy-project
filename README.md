@@ -26,6 +26,7 @@ This repository is organized as follows:
 6.task-5-cybercrime/: Cybercrime case study and prevention guide.
 
 SUMMARY
+
 TASK 1:
 Digital Literacy AwarenessCreated a visual infographic to help peers understand digital literacy and safe internet practices.
 Tool Used: [e.g., Canva / Prezi]
