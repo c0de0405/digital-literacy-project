@@ -13,6 +13,7 @@ This repository is my Digital Literacy Portfolio for the CSE0001 course at VIT B
 This repository is organized as follows:
 Repository Structure
 This repository is organized as follows:
+
 1.report/: Contains the full project report in PDF/DOCX format..
 
 2.task-1-presentation/: Digital Literacy infographic and tool description
