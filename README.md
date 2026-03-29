@@ -7,6 +7,7 @@ Registration Number: 25BSA10138
 Branch: CSE(cloud computing and automation)
 
 PROJECT OVERVIEW
+
 This repository is my Digital Literacy Portfolio for the CSE0001 course at VIT Bhopal University. As a Student Digital Ambassador, I aim to show my skills in navigating the digital world, communicating professionally, and keeping a secure online presence. The project covers five key areas of digital literacy: - Awareness: Creating visual resources for digital education. - Professional Presence: Building a foundational digital portfolio. - Collaboration: Exploring coding and cloud-based tools. - Communication: Mastering professional email and social media etiquette. - Safety: Researching ways to prevent cybercrime and ensure online security.
 
 This repository is organized as follows:
