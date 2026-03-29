@@ -39,25 +39,25 @@ TASK 2: Student Digital Portfolio
 Established a professional presence on key platforms to engage with the academic and professional community
 Platforms: [e.g., LinkedIn, GitHub, Kaggle]
 
-View Folder: task-2-portfolio/
+View Folder: ./task-2-portfolio/
 
 TASK 3: Coding & Collaboration
 
 Practiced technical problem-solving and built a digital literacy quiz for batchmates
 Coding Platform: [e.g., HackerRank]
 Digital Literacy Quiz: https://docs.google.com/forms/d/e/1FAIpQLSetwcYtYSwiWz6Iv-w7QQHh7_3I48b3BkWN7RaDcHJyIiD0wA/viewform?usp=header
-View Folder: task-3-coding and collaboration platforms
+View Folder: ./task-3-platforms
 
 TASK 4: Professional email and social media do's and dont's
 
 Drafted professional emails for academic and internship requests and developed a social media "Do’s and Don’ts" guide.
-View Folder: ./task-4-professional email and etiquette guide.
+View Folder: ./task-4-email-ettiquete/
 
 TASK 5: Cybercrime AwarenessResearched
 
 a cybercrime case study and compiled an actionable safety checklist for college students in India.
 Focus Area: [e.g., Phishing / UPI Fraud]
-View Folder: task-5-cybercrime awareness case study and prevention guide/
+View Folder: /task-5-cybercrime/
 
 The comprehensive project report, including all reflections and detailed observations, can be found here:
 [Click here to view the Full Project Report (PDF)](./report_Report.pdf)
