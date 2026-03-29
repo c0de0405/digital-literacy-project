@@ -38,6 +38,7 @@ Established a professional presence on key platforms to engage with the academic
 Platforms: [e.g., LinkedIn, GitHub, Kaggle]
 
 View Folder: task-2-portfolio/
+
 TASK 3: Coding & Collaboration
 
 Practiced technical problem-solving and built a digital literacy quiz for batchmates
@@ -49,11 +50,13 @@ TASK 4: Professional email and social media do's and dont's
 
 Drafted professional emails for academic and internship requests and developed a social media "Do’s and Don’ts" guide.
 View Folder: ./task-4-professional email and etiquette guide.
+
 TASK 5: Cybercrime AwarenessResearched
 
 a cybercrime case study and compiled an actionable safety checklist for college students in India.
 Focus Area: [e.g., Phishing / UPI Fraud]
 View Folder: task-5-cybercrime awareness case study and prevention guide/
+
 The comprehensive project report, including all reflections and detailed observations, can be found here:
 [Click here to view the Full Project Report (PDF)](./report_Report.pdf)
 
